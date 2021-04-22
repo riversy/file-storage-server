@@ -1,0 +1,1 @@
+module "github.com/riversy/file-storage-server"

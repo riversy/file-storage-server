@@ -1,0 +1,3 @@
+[submodule "path_to_submodule"]
+  path = proto
+  url = git@github.com:riversy/file-storage-proto.git
